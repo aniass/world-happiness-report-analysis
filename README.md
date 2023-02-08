@@ -14,8 +14,9 @@ The dataset contains details of the 'World Happiness report' reports from five y
 
 **The project is created with:**
 
-- SQL, Python 3.6,
-- libraries: SQLite3, pandas, matplotlib, seaborn.
+- Python 3.6,
+- libraries: pandas, matplotlib, seaborn.
+- SQL: SQLite3.
 
 **Running the project:**
 
