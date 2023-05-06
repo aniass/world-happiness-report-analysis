@@ -9,6 +9,7 @@ The dataset contains details of the 'World Happiness report' reports from five y
 ## Project contains:
 - Report analysis from 2015-2017 years - **happiness_part_1.ipynb**
 - Report analysis from 2018-2019 years - **happiness_part_2.ipynb**
+- Python script to put data to sql database - **data_to_database.py**
 
 ## Technologies
 
