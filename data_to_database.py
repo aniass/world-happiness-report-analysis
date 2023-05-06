@@ -39,11 +39,11 @@ df5 = dfs['df5']
 '''Cleaning dataset'''
 
 # removing unnecessary column
-del df1['Dystopia Residual']
-del df2['Dystopia Residual']
-del df3['Dystopia.Residual']
+for df in (df1,df2,df3):
+    if 'Dystopia Residual' in df:
+        del df['Dystopia Residual']
 
-
+# applying functions
 for df in (df1,df2,df3):
     df = rename_column(df)
 
