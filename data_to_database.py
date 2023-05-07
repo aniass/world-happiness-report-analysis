@@ -35,7 +35,6 @@ df3 = dfs['df3']
 df4 = dfs['df4']
 df5 = dfs['df5']
 
-
 '''Cleaning dataset'''
 
 # removing unnecessary column
@@ -47,11 +46,9 @@ for df in (df1,df2,df3):
 for df in (df1,df2,df3):
     df = rename_column(df)
 
-
 for df in (df4,df5):
     df = rename_columns(df)
  
-
 '''Connecting with database'''
 
 conn = sqlite3.connect("happines.db")
