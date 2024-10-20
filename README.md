@@ -22,3 +22,7 @@ The dataset contains details of the 'World Happiness report' reports from five y
 **Running the project:**
 
 To run this project use Jupyter Notebook or Google Colab.
+
+You can run the scripts in the terminal:
+
+    data_to_database.py
