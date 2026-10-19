@@ -25,9 +25,8 @@ The data insights concluded the following questions:
 ## Technologies
 
 **The project is created with:**
-
-- Python: libraries: pandas, matplotlib, seaborn.
 - SQL: SQLite3.
+- Python: libraries (pandas, matplotlib, seaborn).
 
 **Running the project:**
 
