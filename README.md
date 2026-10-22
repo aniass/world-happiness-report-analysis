@@ -16,6 +16,7 @@ The data insights concluded the following questions:
 - Which factors the most influence happiness (GDP, social support, health, freedom)?
 - What is the relationship between economy (GDP per capita) and happiness score?
 - Where does Poland rank in the ranking?
+- What changes over time - which countries advanced and which fell in the ranking between 2015 and 2017?
 
 ### Project contains:
 - Report analysis from 2015-2017 years - **happiness_part_1.ipynb**
